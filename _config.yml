@@ -1,5 +1,6 @@
-title: "Senior Project"
-email: "your.email@example.com"
+title: "Alex's CWU Senior Project"
+email: "alex.amadio@outlook.com"
+author: "Alex Amadio"
 description: "College senior project blog and documentation"
 baseurl: "" # the subpath of your site, e.g. /project
 url: "https://aaeygui.github.io" # the base hostname & protocol for your site
