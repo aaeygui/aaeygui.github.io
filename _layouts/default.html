@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <style>
+      body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
+      header, footer { color: #444; }
+      header a { text-decoration: none; color: inherit; }
+      nav a { margin-right: 1rem; }
+      figure figcaption { font-size: 0.9rem; color: #555; }
+      .post-list { list-style: none; padding: 0; }
+      .post-list li { margin: 1rem 0; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <nav>
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/analysis' | relative_url }}">Analysis</a>
+        <a href="{{ '/construction' | relative_url }}">Construction</a>
+        <a href="{{ '/testing' | relative_url }}">Testing</a>
+        <a href="{{ '/budget-schedule' | relative_url }}">Budget/Schedule</a>
+        <a href="{{ '/contact' | relative_url }}">Contact</a>
+      </nav>
+      <hr>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <hr>
+      <p>Contact: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+      <p>Built with Jekyll.</p>
+    </footer>
+  </body>
+</html>
