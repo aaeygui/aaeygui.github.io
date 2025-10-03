@@ -7,7 +7,6 @@ title: Home
 
 ## Intro
 
-Welcome to my senior project site. This page will document the design, construction, and testing of my device over the course of the year. Posts below will describe progress and results.
 
 <figure style="flex:1 1 50%;margin:auto;">
     <img src="assets/Design_idea.png" alt="Sketch of the device - view 1" style="width:100%;height:auto;">
@@ -28,5 +27,5 @@ Welcome to my senior project site. This page will document the design, construct
 
 ## Results
 
-This section summarizes the key results. For now, it's a short placeholder — details will be added as experiments and analysis complete.
+
 
