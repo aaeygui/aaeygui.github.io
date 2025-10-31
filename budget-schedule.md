@@ -6,7 +6,7 @@ permalink: /budget-schedule/
 
 # Budget/Schedule
 
-
+The following Gantt chart is the planned schedule for the R/C Baja Competition Car project. The Gantt chart is broken up into quarterly tasks that have a planned start and end date based on the submission period for each subtask.  
 
 
   <figure style="flex:1 1 50%;margin:auto;">
