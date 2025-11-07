@@ -6,18 +6,7 @@ permalink: /budget-schedule/
 
 # Budget/Schedule
 
- ## Budget 
-The following is the list of budget expenditures as well as a part list of current suggested parts for the R/C Baja Competition car:
 
-<figure style="flex:1 1 50%;margin:auto;">
-  <img src="{{ '/assets/Budget-table.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;">
-    <figcaption>Figure 1: Budget List.</figcaption>
-  </figure>
-
-<figure style="flex:1 1 50%;margin:auto;">
-  <img src="{{ '/assets/Part-list-table.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;">
-    <figcaption>Figure 2: Part list.</figcaption>
-  </figure>
 
 ## Schedule
 The following Gantt chart is the planned schedule for the R/C Baja Competition Car project. The Gantt chart is broken up into quarterly tasks that have a planned start and end date based on the submission period for each subtask.
@@ -48,4 +37,18 @@ This quarter sees the testing and presentation of the car. The testing done duri
 <figure style="flex:1 1 50%;margin:auto;">
   <img src="{{ '/assets/Spring_quarter_6_and_7.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;">
     <figcaption>Figure 5: Spring quarter task 6 and 7.</figcaption>
+  </figure>
+
+
+ ## Budget 
+The following is the list of budget expenditures as well as a part list of current suggested parts for the R/C Baja Competition car:
+
+<figure style="flex:1 1 50%;margin:auto;">
+  <img src="{{ '/assets/Budget-table.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;">
+    <figcaption>Figure 1: Budget List.</figcaption>
+  </figure>
+
+<figure style="flex:1 1 50%;margin:auto;">
+  <img src="{{ '/assets/part-list-table.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;">
+    <figcaption>Figure 2: Part list.</figcaption>
   </figure>
