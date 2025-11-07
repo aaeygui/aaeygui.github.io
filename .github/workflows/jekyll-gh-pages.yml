@@ -36,6 +36,8 @@ jobs:
           ruby-version: '3.0'
       - name: Install Bundler
         run: gem install bundler
+      - name: Install build tools
+        run: sudo apt-get update && sudo apt-get install -y build-essential        
       - name: Install Gems
         run: bundle install --jobs 4 --retry 3
       - name: Setup Node.js
