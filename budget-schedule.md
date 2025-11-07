@@ -10,12 +10,12 @@ permalink: /budget-schedule/
 The following is the list of budget expenditures as well as a part list of current suggested parts for the R/C Baja Competition car:
 
 <figure style="flex:1 1 50%;margin:auto;">
-  <img src="{{ '/assets/Spring_quarter_6_and_7.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;">
+  <img src="{{ '/assets/Budget-table.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;">
     <figcaption>Figure 1: Budget List.</figcaption>
   </figure>
 
 <figure style="flex:1 1 50%;margin:auto;">
-  <img src="{{ '/assets/Spring_quarter_6_and_7.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;">
+  <img src="{{ '/assets/Part-list-table.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;">
     <figcaption>Figure 2: Part list.</figcaption>
   </figure>
 
