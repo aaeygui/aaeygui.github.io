@@ -6,7 +6,8 @@ permalink: /budget-schedule/
 
 # Budget/Schedule
 
- ## Budget 
+## Budget 
+
 The following is the list of budget expenditures as well as a part list of current suggested parts for the R/C Baja Competition car:
 
 <figure style="flex:1 1 50%;margin:auto;">
