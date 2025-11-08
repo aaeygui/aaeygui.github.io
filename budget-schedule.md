@@ -8,7 +8,9 @@ permalink: /budget-schedule/
 
 ## Budget 
 
-The following is the list of budget expenditures as well as a part list of current suggested parts for the R/C Baja Competition car:
+The following Budget list is the planned budget expenditures for the R/C Competition Car. It is broken down into budget for raw materials for parts made in-house and purchased parts from online vendors. Below the raw materials section is a list that details the budget expenditures for manual labor from the students manufacturing the car, this is a total hourly year that was chosen based on what the student believe their hourly rate should be for this project. 
+
+Below the Budget table is a parts table that describes a detailed description of each part that is getting manufactured in-house and purchased from online vendors.
 
 <figure style="flex:1 1 50%;margin:auto;">
   <img src="{{ '/assets/Budget-table.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;">
