@@ -4,39 +4,61 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title | default: site.title }}</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
-    <style>
-      body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
-      header, footer { color: #444; }
-      header a { text-decoration: none; color: inherit; }
-      nav a { margin-right: 1rem; }
-      figure figcaption { font-size: 0.9rem; color: #555; }
-      .post-list { list-style: none; padding: 0; }
-      .post-list li { margin: 1rem 0; }
-    </style>
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   </head>
   <body>
-    <header>
-      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-      <nav>
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/analysis' | relative_url }}">Analysis</a>
-        <a href="{{ '/construction' | relative_url }}">Construction</a>
-        <a href="{{ '/testing' | relative_url }}">Testing</a>
-        <a href="{{ '/budget-schedule' | relative_url }}">Budget/Schedule</a>
-        <a href="{{ '/contact' | relative_url }}">Contact</a>
-      </nav>
-      <hr>
+    <header class="site-header">
+      <div class="header-content">
+        <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+        <p class="site-subtitle">{{ site.description }}</p>
+      </div>
     </header>
+
+    <nav class="site-nav">
+      <ul class="nav-links">
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/analysis' | relative_url }}">Analysis</a></li>
+        <li><a href="{{ '/construction' | relative_url }}">Construction</a></li>
+        <li><a href="{{ '/testing' | relative_url }}">Testing</a></li>
+        <li><a href="{{ '/budget-schedule' | relative_url }}">Budget/Schedule</a></li>
+        <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
+      </ul>
+    </nav>
 
     <main>
       {{ content }}
     </main>
 
-    <footer>
-      <hr>
-      <p>{{ site.author }} — <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+    <footer class="site-footer">
+      <div class="footer-content">
+        <div class="social-links">
+          <!-- Add social links here if needed -->
+        </div>
+        <p class="copyright">{{ site.author }} — <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+      </div>
     </footer>
-    <!-- Mermaid rendering is handled at build time by jekyll-diagrams plugin -->
+    
+    <div class="image-zoom-modal" id="imageZoomModal">
+      <img id="zoomedImage" src="" alt="">
+    </div>
+    
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const modal = document.getElementById('imageZoomModal');
+        const zoomedImg = document.getElementById('zoomedImage');
+        const zoomableImages = document.querySelectorAll('.zoomable');
+        
+        zoomableImages.forEach(img => {
+          img.addEventListener('click', function() {
+            zoomedImg.src = this.src;
+            modal.classList.add('active');
+          });
+        });
+        
+        modal.addEventListener('click', function() {
+          modal.classList.remove('active');
+        });
+      });
+    </script>
   </body>
 </html>

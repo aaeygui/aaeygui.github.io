@@ -11,6 +11,13 @@ plugins:
 
 markdown: kramdown
 
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - color-functions
+    - global-builtin
+
 defaults:
   - scope:
       path: ""
