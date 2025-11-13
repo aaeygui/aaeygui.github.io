@@ -15,7 +15,7 @@ title: Home
       <span>Chassis Design</span>
     </div>
     <div class="post-content">
-      <h2>Aluminum Chassis Development</h2>
+      <h2>Baja R/C Construction</h2>
       <p>Lightweight and durable aluminum chassis designed to withstand offroad Baja competition tracks.</p>
       <a href="/construction" class="read-more">Learn More →</a>
     </div>
@@ -40,6 +40,17 @@ title: Home
       <h2>Project Management</h2>
       <p>Comprehensive budget tracking and project timeline from conception to completion.</p>
       <a href="/budget-schedule" class="read-more">Learn More →</a>
+    </div>
+  </div>
+
+  <div class="post-card">
+    <div class="post-image">
+      <span>Budget & Schedule</span>
+    </div>
+    <div class="post-content">
+      <h2>Project Testing Record</h2>
+      <p>Comprehensive record for testing done for the competency of the R/C car.</p>
+      <a href="/testing" class="read-more">Learn More →</a>
     </div>
   </div>
 </section>
