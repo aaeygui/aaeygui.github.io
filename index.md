@@ -45,7 +45,7 @@ title: Home
 
   <div class="post-card">
     <div class="post-image">
-      <span>Budget & Schedule</span>
+      <span>Testing</span>
     </div>
     <div class="post-content">
       <h2>Project Testing Record</h2>
