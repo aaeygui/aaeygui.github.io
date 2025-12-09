@@ -7,6 +7,13 @@ title: Home
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZYedM977Cpg" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<p style="text-align:center;margin:1rem 0;">
+  <a href="{{ '/AA-20-020.pdf' | relative_url }}" download style="display:inline-flex;align-items:center;gap:0.5rem;text-decoration:none;color:inherit;">
+    <span style="font-size:1.2rem;margin-right:0.35rem;line-height:1;">📄</span>
+    Project Proposal
+  </a>
+</p>
+
 ## Project Overview
 This is a project done for the CWU ASME Baja R/C competition. The project addresses a need for a R/C car that is capable of completing a series of races with success. These races include the Slalom-and-sprint and the Baja competition. The scope of this piece of the project will only include the Chasssis and Drivetrain for the Baja car. The drivetrain will to be able to achieve a speed of 20 mph for success in the Slalom-and-sprint and the chassis will be durable enough to be able to withstand the offroad track of the Baja Competition.
 
