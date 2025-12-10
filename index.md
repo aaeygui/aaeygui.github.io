@@ -8,7 +8,7 @@ title: Home
 </div>
 
 <p style="text-align:center;margin:1rem 0;">
-  <a href="{{ '/AA-20-020.pdf' | relative_url }}" download style="display:inline-flex;align-items:center;gap:0.5rem;text-decoration:none;color:inherit;">
+  <a href="{{ '/MET489_Proposal_RC_Baja.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:0.5rem;text-decoration:none;color:inherit;">
     <span style="font-size:1.2rem;margin-right:0.35rem;line-height:1;">📄</span>
     Project Proposal
   </a>
