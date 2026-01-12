@@ -19,11 +19,16 @@ This is a project done for the CWU ASME Baja R/C competition. The project addres
 
 The R/C car chassis is be made from aluminum as this material is light weight and durable enough to complete the success criteria to a satisfactory degree. This R/C car uses a single 7.2V brushed motor to drive the drivetrain and is also made from aluminum. This website will include a series of detial sketches and designs documenting the process from project conception to completion. 
 
-  <figure style="flex:1 1 50%;margin:auto;">
-  <img src="{{ '/assets/design-idea-non-rule-breaking.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:auto;" class="zoomable">
+<div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:flex-start;">
+  <figure style="flex:1 1 45%;margin:auto;">
+  <img src="{{ '/assets/design-idea-non-rule-breaking.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;" class="zoomable">
     <figcaption>Figure 1: Main Sketch of Chassis and Drivetrain for R/C Baja car .</figcaption>
   </figure>
-
+  <figure style="flex:1 1 45%;margin:0;">
+  <img src="{{ '/assets/Tron-Top-Assembly.png' | relative_url }}" alt="Sketch of the device - view 2" style="width:100%;height:auto;" class="zoomable">
+    <figcaption>Figure 4: Current complete Assembly.</figcaption>
+  </figure>
+</div>
 
 <div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:flex-start;">
   <figure style="flex:1 1 45%;margin:0;">
