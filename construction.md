@@ -6,7 +6,7 @@ permalink: /construction/
 
 # Construction
 
-This page details the timeline and process for the construction of the R/C Baja COmpetition Car. 
+This page details the timeline and process for the construction of the R/C Baja Competition Car. 
 
 There were many processes that were considered for the construction. The processes that was ultimately chosen was Laser cutting, 3D-Printing, and CNC turning. THese processes were chosen due to their accessability as well as the need for toleranceing and GD&T during the construction prcoess.
 
