@@ -13,7 +13,7 @@ The following Budget list is the planned budget expenditures for the R/C Competi
 Below the Budget table is a parts table that describes a detailed description of each part that is getting manufactured in-house and purchased from online vendors.
 
 <figure style="flex:1 1 50%;margin:auto;">
-  <img src="{{ '/assets/Budget-table.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;" class="zoomable">
+  <img src="{{ '/assets/Updated-Budget-table.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;" class="zoomable">
     <figcaption>Figure 1: Budget List.</figcaption>
   </figure>
 
