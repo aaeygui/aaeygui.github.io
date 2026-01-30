@@ -14,7 +14,7 @@ Throuhgout the process of manufacturing, there was one problem that could not be
 
 
 <figure style="flex:1 1 50%;margin:auto;">
-  <img src="{{ '/assets/Construction_pic_1.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;" class="zoomable">
+  <img src="{{ '/assets/Construction_pic_1.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:50%;" class="zoomable">
     <figcaption>Figure 1: Picture taken during construction process.</figcaption>
   </figure>
 
