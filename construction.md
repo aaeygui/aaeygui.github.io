@@ -19,3 +19,10 @@ Throuhgout the process of manufacturing, there was one problem that could not be
   </figure>
 
 This image was taken during the process of laser cutting the Chassis frame on a xTools MetalFab.
+
+<figure style="flex:1 1 50%;margin:auto;">
+  <img src="{{ '/assets/Webpage-Pic-2.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:50%;" class="zoomable">
+    <figcaption>Figure 2: Picture taken during construction process.</figcaption>
+  </figure>
+
+This image was taken during the process of turning down the driveshaft on a Tormach CNC Lathe. The operation depicted in the picture above was the facing operation after turning the diameter down to the required diameter of .25 inches.
