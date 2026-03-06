@@ -28,7 +28,8 @@ This image was taken during the process of laser cutting the Chassis frame on a 
 This image was taken during the process of turning down the driveshaft on a Tormach CNC Lathe. The operation depicted in the picture above was the facing operation after turning the diameter down to the required diameter of .25 inches.
 
 <div style="display:flex;justify-content:center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dPGrCaJGSSw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SXBc2YkDW7w
+" frameborder="0" allowfullscreen></iframe>
 </div>
 This video Details the process of turning down the driveshaft used to deliver torque from the motor to the wheels.
 
@@ -40,8 +41,23 @@ This video Details the process of turning down the driveshaft used to deliver to
 Video 1: This video details the procress of laser cutting out the chassis frame on a xTools laser cutter. 
 
 <figure style="flex:1 1 50%;margin:auto;">
-  <img src="{{ '/assets/Drivetrain.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:50%;" class="zoomable">
+  <img src="{{ '/assets/Differential-housing-lower.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:50%;" class="zoomable">
     <figcaption>Figure 3: Picture taken during construction process.</figcaption>
+  </figure>
+
+This Image shows the manufacturing of the lower differetial housing on the build plate of a Bambu labs H2D 3D-printer after completing a 30 minute print for the drivetrain assembly 
+
+<figure style="flex:1 1 50%;margin:auto;">
+  <img src="{{ '/assets/Differential-spur-gear-pinion-adapter.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:50%;" class="zoomable">
+    <figcaption>Figure 4: Picture taken during construction process.</figcaption>
+  </figure>
+
+This Image shows the manufacturing of an adapter for a ring pinion gear that slides onto gear teeth that are mis-matched to the differential driven teeth. This part allows for the torque from the motor to be properly transfered to the rear wheels. 
+
+
+<figure style="flex:1 1 50%;margin:auto;">
+  <img src="{{ '/assets/Drivetrain.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:50%;" class="zoomable">
+    <figcaption>Figure 5: Picture taken during construction process.</figcaption>
   </figure>
 
 This Image shows the end of assembling the drivetrain subassembly that is to be screwed into the chassis frame using a Mix of M3 and 1/4 inch fasteners. 
