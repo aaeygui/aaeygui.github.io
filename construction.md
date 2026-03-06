@@ -26,3 +26,24 @@ This image was taken during the process of laser cutting the Chassis frame on a 
   </figure>
 
 This image was taken during the process of turning down the driveshaft on a Tormach CNC Lathe. The operation depicted in the picture above was the facing operation after turning the diameter down to the required diameter of .25 inches.
+
+<div style="display:flex;justify-content:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dPGrCaJGSSw" frameborder="0" allowfullscreen></iframe>
+  <figcaption>Video 1: Video taken during construction process.</figcaption>
+</div>
+This video Details the process of turning down the driveshaft used to deliver torque from the motor to the wheels.
+
+<div style="display:flex;justify-content:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w_KiVI1Ff5s
+" frameborder="0" allowfullscreen></iframe>
+  <figcaption>Video 2: Video taken during construction process.</figcaption>
+</div>
+
+Video 1: This video details the procress of laser cutting out the chassis frame on a xTools laser cutter. 
+
+<figure style="flex:1 1 50%;margin:auto;">
+  <img src="{{ '/assets/Drivetrain.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:50%;" class="zoomable">
+    <figcaption>Figure 3: Picture taken during construction process.</figcaption>
+  </figure>
+
+This Image shows the end of assembling the drivetrain subassembly that is to be screwed into the chassis frame using a Mix of M3 and 1/4 inch fasteners. 
