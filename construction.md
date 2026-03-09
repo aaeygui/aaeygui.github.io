@@ -61,3 +61,11 @@ This Image shows the manufacturing of an adapter for a ring pinion gear that sli
   </figure>
 
 This Image shows the end of assembling the drivetrain subassembly that is to be screwed into the chassis frame using a Mix of M3 and 1/4 inch fasteners. 
+
+
+<figure style="flex:1 1 50%;margin:auto;">
+  <img src="{{ '/assets/Drawing tree.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:50%;" class="zoomable">
+    <figcaption>Figure 6: Picture was put together during fall quarter.</figcaption>
+  </figure>
+
+This Image shows the Drawing tree used to show all components assembled into the final assembly. This image does not reflect current assmebly. 
