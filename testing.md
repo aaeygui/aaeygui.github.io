@@ -25,7 +25,7 @@ After analyzing the testing image of the only successful test, as seen in Figure
 It was suspected that the reason that it was outside of the requirement scope is due to the contruction. The bumpers design was altered to better absorb energy upon impact.
 
 <figure style="flex:1 1 50%;margin:auto;">
-  <img src="{{ '/assets/Testing-Image.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;" class="zoomable">
+  <img src="{{ '/assets/Testing-Image.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:50%;" class="zoomable">
     <figcaption>Figure 1: Impact testing image.</figcaption>
   </figure>
 
