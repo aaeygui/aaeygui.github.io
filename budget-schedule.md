@@ -44,12 +44,12 @@ This quarter sees the testing and presentation of the car. The testing done duri
 
 
 <figure style="flex:1 1 50%;margin:auto;">
-  <img src="{{ '/assets/assets/Spring-Gantt_chart_task_4_5_and_webpage.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;" class="zoomable">
+  <img src="{{ '/assets/Spring_Gantt_chart_task_4_5_and_webpage.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;" class="zoomable">
     <figcaption>Figure 4: Winter quarter tasks 4 and 5.</figcaption>
   </figure>
 
 <figure style="flex:1 1 50%;margin:auto;">
-  <img src="{{ '/assets/assets/Spring-Gantt_chart_task_6_and_7.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;" class="zoomable">
+  <img src="{{ '/assets/Spring-Gantt_chart_task_6_and_7.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:100%;height:auto;" class="zoomable">
     <figcaption>Figure 5: Spring quarter task 6 and 7.</figcaption>
   </figure>
 
