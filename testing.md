@@ -30,3 +30,28 @@ It was suspected that the reason that it was outside of the requirement scope is
   </figure>
 
 This image shows the state of the RC car after the only successful impact.
+
+### Acceleration Testing
+The second test that was done for this project was the acceleration test. This test was done to determine if the drivetrain was able to achieve a speed of 10 mph within 10 seconds. 
+
+This was done to determine if the car would be able to compete during the sprint section of the competition. This was a successful test, however there was a incosistancy that could be the cause of data discrepency. This test was looking at the time that the car took to reach a specific speed. 
+
+### Ramp Testing
+
+
+### Top Speed Testing
+
+<div style="display:flex;justify-content:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VFXqHBOIg3Q" frameborder="0" allowfullscreen></iframe>
+</div>
+Video 1: Top Speed Test 50% motor power
+
+<div style="display:flex;justify-content:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/shorts/0gx_bQQRFd4" frameborder="0" allowfullscreen></iframe>
+</div>
+Video 2: Top Speed Test 75% Motor Power
+
+<div style="display:flex;justify-content:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m89fLIEs4Nw" frameborder="0" allowfullscreen></iframe>
+</div>
+Video 3: Top Speed Test 100% Motor Power
