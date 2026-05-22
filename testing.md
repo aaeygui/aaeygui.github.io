@@ -46,10 +46,8 @@ This was done to determine if the car would be able to compete during the sprint
 </div>
 Video 1: Top Speed Test 50% motor power
 
-<div style="display:flex;justify-content:center;margin:20px 0;">
-  <div style="position:relative;width:100%;max-width:315px;padding-bottom:177.78%;">
-    <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/shorts/0gx_bQQRFd4" frameborder="0" allowfullscreen></iframe>
-  </div>
+<div style="display:flex;justify-content:center;">
+<iframe width="560" height="315" src="https://youtube.com/shorts/0gx_bQQRFd4" frameborder="0" allowfullscreen></iframe>
 </div>
 Video 2: Top Speed Test 75% Motor Power
 
