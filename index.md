@@ -48,10 +48,45 @@ The R/C car chassis is be made from aluminum as this material is light weight an
 
 ## Results
 
-| Test | Predicted Value | Testing Value | Pass/Fail Requirement |
-|------|-----------------|---------------|-----------------------|
-| Impact Testing | 0.6 inches | 0.632 inches | Fail |
-| Impact testing pt.2 | 0.6 inches | 0.58 inches | Pass |
-| Acceleration Testing | 7 seconds | 2.48 seconds | Pass |
-| Ramp Testing | Pass | Pass | Pass |
-| Top Speed Testing | 30 mph | 26.6 mph | Fail |
+<table style="width:100%;border-collapse:collapse;">
+  <thead>
+    <tr style="background-color:white;">
+      <th style="border:1px solid #ddd;padding:12px;background-color:white;text-align:left;">Test</th>
+      <th style="border:1px solid #ddd;padding:12px;background-color:white;text-align:left;">Predicted Value</th>
+      <th style="border:1px solid #ddd;padding:12px;background-color:white;text-align:left;">Testing Value</th>
+      <th style="border:1px solid #ddd;padding:12px;background-color:white;text-align:left;">Pass/Fail Requirement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:white;">
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">Impact Testing</td>
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">0.6 inches</td>
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">0.632 inches</td>
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">Fail</td>
+    </tr>
+    <tr style="background-color:white;">
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">Impact testing pt.2</td>
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">0.6 inches</td>
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">0.58 inches</td>
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">Pass</td>
+    </tr>
+    <tr style="background-color:white;">
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">Acceleration Testing</td>
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">7 seconds</td>
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">2.48 seconds</td>
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">Pass</td>
+    </tr>
+    <tr style="background-color:white;">
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">Ramp Testing</td>
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">Pass</td>
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">Pass</td>
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">Pass</td>
+    </tr>
+    <tr style="background-color:white;">
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">Top Speed Testing</td>
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">30 mph</td>
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">26.6 mph</td>
+      <td style="border:1px solid #ddd;padding:12px;background-color:white;">Fail</td>
+    </tr>
+  </tbody>
+</table>
