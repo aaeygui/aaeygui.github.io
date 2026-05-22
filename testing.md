@@ -36,22 +36,35 @@ The second test that was done for this project was the acceleration test. This t
 
 This was done to determine if the car would be able to compete during the sprint section of the competition. This was a successful test, however there was a incosistancy that could be the cause of data discrepency. This test was looking at the time that the car took to reach a specific speed. 
 
+
+<figure style="flex:1 1 50%;margin:auto;">
+  <img src="{{ '/assets/Acceleration_Testing Set_Up.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:50%;" class="zoomable">
+    <figcaption>Figure 2: Acceleration testing image.</figcaption>
+  </figure>
+
 ### Ramp Testing
 
+
+<figure style="flex:1 1 50%;margin:auto;">
+  <img src="{{ '/assets/Ramp_Testing_Set_up.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:50%;" class="zoomable">
+    <figcaption>Figure 3: Ramp testing image.</figcaption>
+  </figure>
 
 ### Top Speed Testing
 
 <div style="display:flex;justify-content:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VFXqHBOIg3Q" frameborder="0" allowfullscreen></iframe>
+  <figcaption>Video 1: Top Speed Test 50% motor power.</figcaption>
 </div>
-Video 1: Top Speed Test 50% motor power
+
 
 <div style="display:flex;justify-content:center;">
   <iframe width="315" height="560" src="https://youtube.com/embed/0gx_bQQRFd4" frameborder="0" allowfullscreen></iframe>
+    <figcaption>Video 2: Top Speed Test 75% Motor Power.</figcaption>
 </div>
-Video 2: Top Speed Test 75% Motor Power
+
 
 <div style="display:flex;justify-content:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m89fLIEs4Nw" frameborder="0" allowfullscreen></iframe>
+  <figcaption>Video 3: Top Speed Test 100% Motor Power.</figcaption>
 </div>
-Video 3: Top Speed Test 100% Motor Power
