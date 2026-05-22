@@ -48,5 +48,10 @@ The R/C car chassis is be made from aluminum as this material is light weight an
 
 ## Results
 
-
-
+| Test | Predicted Value | Testing Value | Pass/Fail Requirement |
+|------|-----------------|---------------|-----------------------|
+| Impact Testing | 0.6 inches | 0.632 inches | Fail |
+| Impact testing pt.2 | 0.6 inches | 0.58 inches | Pass |
+| Acceleration Testing | 7 seconds | 2.48 seconds | Pass |
+| Ramp Testing | Pass | Pass | Pass |
+| Top Speed Testing | 30 mph | 26.6 mph | Fail |

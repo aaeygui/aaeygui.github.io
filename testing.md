@@ -36,35 +36,53 @@ The second test that was done for this project was the acceleration test. This t
 
 This was done to determine if the car would be able to compete during the sprint section of the competition. This was a successful test, however there was a incosistancy that could be the cause of data discrepency. This test was looking at the time that the car took to reach a specific speed. 
 
+The predicted value for this test was 7 seconds to reach the required 10 mph, however, during testing the time came out to an average of 2.48 seconds. 
+
+This data is well under the required 10 seconds, however it is believed that the reason for the discrepency is due to the drivetrain change at the beginning of spring quarter.
 
 <figure style="flex:1 1 50%;margin:auto;">
   <img src="{{ '/assets/Acceleration_Testing Set_Up.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:50%;" class="zoomable">
     <figcaption>Figure 2: Acceleration testing image.</figcaption>
   </figure>
 
-### Ramp Testing
+This image shows the testing set-up that was used for the acceleration test.
 
+### Ramp Testing
+The third test that was conducted for this project was the ramp test. This test was done to determine if the drivetrain was able to climb a 45-degree ramp. 
+
+This is to confirm that the car would be able to handle jumps during the Baja competition. This test was done twice, once with the bumper attached, and once with the bumper dettached. 
+
+The car was successfull for both test runs. the reasoning behind the test was that the test with the bumper attached looked more like that the car was pushing itself up the ramp, while the second test showed that it was actually driving up the ramp. This indicates to the principle engineer that the car did not have enough ground clearance with the bumper attached. 
+
+This issue can be solved in a number of ways, however due to time restrictions this was not chosen. one of the ways that could have solved this was to reduce the overall size of the front platform to allow the suspension to articulate further, allowing for more ground clearance. 
 
 <figure style="flex:1 1 50%;margin:auto;">
   <img src="{{ '/assets/Ramp_Testing_Set_up.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:50%;" class="zoomable">
     <figcaption>Figure 3: Ramp testing image.</figcaption>
   </figure>
 
+This image shows the testing set-up for the ramp test.
+
 ### Top Speed Testing
+The fourth and final test that was conducted on the RC Baja competition car, was the top speed test. This test was conducted to confirm the top speed of the car at 3 different motor powers. The car was required to achieve a top speed of 30 mph.
+
+This test was unsuccessful as the car at 100% motor power did not reach the required RPM to hit 30 mph with four inch diameter tires. During testing, the car reached 10.0 mph for 50% motor power, 16.0 mph for 75%, and 26.6 mph for 100%. This test would have been considered successful if the 100% was within 5-10% of 30 mph.
+
+The reason for this is most likely that there is more friction in the system that anticipated. Where exactly the friction is can be in a number of places, howver it is believed, based on observation, that the bulk of the friction is cause by a tolerance issues location on each of the rear axles that connect to the wheels. 
+
+This could have been fixed if this test was conducted earlier in the quarter, however this would have needed the rear shock tower assembly and axle connection to undergo a redesign.
 
 <div style="display:flex;justify-content:center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/VFXqHBOIg3Q" frameborder="0" allowfullscreen></iframe>
-    <divcaption>Video 1: Top Speed Test 50% motor power.</divcaption>
 </div>
-
+<p style="text-align:center;">Video 1: Top Speed Test 50% motor power</p>
 
 <div style="display:flex;justify-content:center;">
   <iframe width="315" height="560" src="https://youtube.com/embed/0gx_bQQRFd4" frameborder="0" allowfullscreen></iframe>
-    <divcaption>Video 2: Top Speed Test 75% Motor Power.</divcaption>
 </div>
-
+<p style="text-align:center;">Video 2: Top Speed Test 75% Motor Power</p>
 
 <div style="display:flex;justify-content:center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/m89fLIEs4Nw" frameborder="0" allowfullscreen></iframe>
-    <divcaption>Video 3: Top Speed Test 100% Motor Power.</divcaption>
 </div>
+<p style="text-align:center;">Video 3: Top Speed Test 100% Motor Power</p>
