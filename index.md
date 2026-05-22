@@ -90,3 +90,7 @@ The R/C car chassis is be made from aluminum as this material is light weight an
     </tr>
   </tbody>
 </table>
+
+This Project turned out to be more successful than anticipated. The success critria outlined during fall quarter was that the car needed to place 3rd overall in the Baja competition to be successful. The car ended up taking 1st place in the Slalom, and the Sprint sections of the race, and 2nd place in the offroad Baja competiton section. This puts the car in 1st overall.
+
+For testing the car was mostly successful in each test with appropriate design updates. The test that was unsuccessful could have been fixed had the test been conducted earlier in the quarter. 
