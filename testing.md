@@ -58,10 +58,17 @@ This issue can be solved in a number of ways, however due to time restrictions t
 
 <figure style="flex:1 1 50%;margin:auto;">
   <img src="{{ '/assets/Ramp_Testing_Set_up.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:50%;" class="zoomable">
-    <figcaption>Figure 3: Ramp testing image.</figcaption>
+    <figcaption>Figure 3: Ramp Testing Set-up.</figcaption>
   </figure>
 
 This image shows the testing set-up for the ramp test.
+
+<figure style="flex:1 1 50%;margin:auto;">
+  <img src="{{ '/assets/Ramp_Testing_image.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:50%;" class="zoomable">
+    <figcaption>Figure 4: Ramp Testing with Bumper.</figcaption>
+  </figure>
+
+This image shows the events of one of the five testing trials for the ramp testing, this image was taken during a trial with the bumper attached. 
 
 ### Top Speed Testing
 The fourth and final test that was conducted on the RC Baja competition car, was the top speed test. This test was conducted to confirm the top speed of the car at 3 different motor powers. The car was required to achieve a top speed of 30 mph.
@@ -71,6 +78,13 @@ This test was unsuccessful as the car at 100% motor power did not reach the requ
 The reason for this is most likely that there is more friction in the system that anticipated. Where exactly the friction is can be in a number of places, howver it is believed, based on observation, that the bulk of the friction is cause by a tolerance issues location on each of the rear axles that connect to the wheels. 
 
 This could have been fixed if this test was conducted earlier in the quarter, however this would have needed the rear shock tower assembly and axle connection to undergo a redesign.
+
+<figure style="flex:1 1 50%;margin:auto;">
+  <img src="{{ '/assets/Top_Speed_Testing_Setup.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:50%;" class="zoomable">
+    <figcaption>Figure 5: Top Speed Test Set-up.</figcaption>
+  </figure>
+
+This image shows the set-up used during the top speed test.
 
 <div style="display:flex;justify-content:center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/VFXqHBOIg3Q" frameborder="0" allowfullscreen></iframe>
