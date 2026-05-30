@@ -30,7 +30,7 @@ The R/C car chassis is be made from aluminum as this material is light weight an
     <figcaption>Figure 1: Main Sketch of Chassis and Drivetrain for R/C Baja car .</figcaption>
   </figure>
   <figure style="flex:1 1 45%;margin:0;">
-  <img src="{{ '/assets/Tron-Top-Assembly.png' | relative_url }}" alt="Sketch of the device - view 2" style="width:100%;height:auto;" class="zoomable">
+  <img src="{{ '/assets/Final-Top-Assembly.png' | relative_url }}" alt="Sketch of the device - view 2" style="width:100%;height:auto;" class="zoomable">
     <figcaption>Figure 4: Current complete Assembly.</figcaption>
   </figure>
 </div>
