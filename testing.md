@@ -31,6 +31,10 @@ It was suspected that the reason that it was outside of the requirement scope is
 
 This image shows the state of the RC car after the only successful impact.
 
+A seecond test was run with the change to the front bumper to allow for better impact absorption.
+
+During this test the deflection was 0.58 incehes from normal, this value is under the allowable limit making this change a successful change.
+
 ### Acceleration Testing
 The second test that was done for this project was the acceleration test. This test was done to determine if the drivetrain was able to achieve a speed of 10 mph within 10 seconds. 
 

@@ -64,8 +64,8 @@ This Image shows the end of assembling the drivetrain subassembly that is to be 
 
 
 <figure style="flex:1 1 50%;margin:auto;">
-  <img src="{{ '/assets/Drawing tree.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:50%;" class="zoomable">
+  <img src="{{ 'assets/Drawing-tree.png' | relative_url }}" alt="Sketch of the device - view 1" style="width:50%;height:50%;" class="zoomable">
     <figcaption>Figure 6: Picture was put together during fall quarter.</figcaption>
   </figure>
 
-This Image shows the Drawing tree used to show all components assembled into the final assembly. This image does not reflect current assmebly. 
+This Image shows the Drawing tree used to show all components assembled into the final assembly. 
